@@ -35,3 +35,10 @@ The correlation coefficient and linear regression model are calculated to assess
 ### Conclusion:
 
 Through comprehensive analysis of the cancer treatment data, valuable insights into the effectiveness of different drug regimens are obtained. 
+
+### Resources:
+
+Past Module 5 class activities
+Study Groups
+Tutoring
+SBC Learning
