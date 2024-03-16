@@ -38,7 +38,7 @@ Through comprehensive analysis of the cancer treatment data, valuable insights i
 
 ### Resources:
 
-Past Module 5 class activities
-Study Groups
-Tutoring
+Past Module 5 class activities,
+Study Groups,
+Tutoring,
 SBC Learning
